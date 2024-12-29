@@ -9,6 +9,7 @@
 
     <modules>
         <module>core-fundamental</module>
+        <module>core-poo</module>
     </modules>
 
     <properties>
