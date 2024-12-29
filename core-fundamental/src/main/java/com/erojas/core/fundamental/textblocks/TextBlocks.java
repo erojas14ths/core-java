@@ -1,4 +1,4 @@
-package com.erojas.core.fundamental;
+package com.erojas.core.fundamental.textblocks;
 
 /**
  * Java 15.
