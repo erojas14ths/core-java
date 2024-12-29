@@ -1,4 +1,4 @@
-package com.erojas.core.poo;
+package com.erojas.core.poo.object;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
